@@ -1,6 +1,6 @@
 <div id="title" align=center>
   
-![](https://cdn.luogu.com.cn/upload/image_hosting/qyk4u79w.png)
+![](https://cdn.luogu.com.cn/upload/image_hosting/8z9v3bdz.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CompJIN&show_icons=true&theme=tokyonight)]
 
